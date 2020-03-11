@@ -1,0 +1,17 @@
+header{
+    text-align: center;
+    font-size: 200%;
+    font-family: cursive;
+    border-bottom: solid 3px  black;
+    padding-bottom: 2px;
+}
+header p{
+    margin-top: 40px;
+    text-transform: uppercase;
+}
+img{
+    width: 33.33333333%;
+    float: right;
+    padding-top: 10px ;
+    
+}
