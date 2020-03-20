@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+body p{
+    color: blanchedalmond;
+    font-family: cursive;
+}
+body h1{
+    color: blanchedalmond;
+    font-family: cursive;
+}body h3{
+    color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: capitalize;
+}
+body a{
+    text-decoration: none;
+    color:white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+body a:hover{
+    color: coral;
+}
+body img{
+    width: 30%;
+    float: right;
+    padding-top: 10px ;
+    margin: 1.6% ;
+    height: 350px;
+}
+.im img{
+    width: auto;
+    height: auto;
+}
