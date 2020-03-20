@@ -10,8 +10,8 @@ header p{
     text-transform: uppercase;
 }
 img{
-    width: 33.33333333%;
+    width: 30%;
     float: right;
     padding-top: 10px ;
-    
+    margin: 1.6% ;
 }
