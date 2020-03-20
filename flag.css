@@ -1,0 +1,129 @@
+body{
+    background-color: black;
+}
+h1{
+    color: yellow;
+    font-size: 25px;
+    text-align: center;
+    font-family: cursive;
+}
+.con1{
+    background-image: url(./asset/image/brazil.png);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    width: 30%;
+    border: solid 1px black;
+    margin: 1.6%;
+    float: right;
+    height: 300px;
+}
+.con2{
+    background-image: url(./asset/image/Ghana.png);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    width: 30%;
+    border: solid 1px black;
+    margin: 1.6%;
+    float: right;
+    height: 300px;
+}
+.con3{
+    background-image: url(./asset/image/eth.jfif);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    width: 30%;
+    border: solid 1px black;
+    margin: 1.6%;
+    float: right;
+    height: 300px;
+}
+.con4{
+    background-image: url(./asset/image/italy.png);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    width: 30%;
+    border: solid 1px black;
+    margin: 1.6%;
+    float: right;
+    height: 300px;
+}
+.con5{
+    background-image: url(./asset/image/finland.png);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    width: 30%;
+    border: solid 1px black;
+    margin: 1.6%;
+    float: right;
+    height: 300px;
+}
+.con6{
+    background-image: url(./asset/image/norway.png);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    width: 30%;
+    border: solid 1px black;
+    margin: 1.6%;
+    float: right;
+    height: 300px;
+}
+.con7{
+    background-image: url(./asset/image/spain.png);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    width: 30%;
+    border: solid 1px black;
+    margin: 1.6%;
+    float: right;
+    height: 300px;
+}
+.con8{
+    background-image: url(./asset/image/sweden.png);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    width: 30%;
+    border: solid 1px black;
+    margin: 1.6%;
+    float: right;
+    height: 300px;
+}
+.con9{
+    background-image: url(./asset/image/korea.jfif);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    width: 30%;
+    border: solid 1px black;
+    margin: 1.6%;
+    float: right;
+    height: 300px;
+}
+.con10{
+    background-image: url(./asset/image/austria.png);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    width: 30%;
+    border: solid 1px black;
+    margin: 1.6%;
+    float: right;
+    height: 300px;
+}
+.con11{
+    background-image: url(./asset/image/check.jfif);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    width: 30%;
+    border: solid 1px black;
+    margin: 1.6%;
+    float: right;
+    height: 300px;
+}
+.con12{
+    background-image: url(./asset/image/usa.png);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    width: 30%;
+    border: solid 1px black;
+    margin: 1.6%;
+    float: right;
+    height: 300px;
+}

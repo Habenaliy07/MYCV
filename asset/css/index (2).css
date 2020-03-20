@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+ul li a{
+    color: whitesmoke;
+    font-family: cursive;
+    text-decoration: none;
+    font-size: 56px;
+}
+ul li a:hover{
+    color: gold;
+}
