@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.one{
+    margin-left: 400px;
+    font-size: 25px;
+    font-family: cursive;
+    color: darkorange;
+    float: right;
+    margin-top: 1.54rem;
+
+}
+ul>li{
+    font-size: 23px;
+}
+body>a{
+    text-decoration: none;
+    font-size: 20px;
+    font-family: cursive;
+}
+body>a:hover{
+    color: darkorange;
+    text-transform: capitalize;
+}
+.you>p{
+    font-size: 20px;
+    font-family: fantasy;
+    color: yellow;
+}
